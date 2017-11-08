@@ -1,1 +1,1 @@
-[getnexar.com](https://getnexar.com) code examples (actual for Nov 2017)
+[getnexar.com](https://getnexar.com) code examples 

@@ -1,2 +1,2 @@
 # examples
-Code examples
+Examples of getnexar.com source code (cropped)

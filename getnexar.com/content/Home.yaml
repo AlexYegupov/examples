@@ -1,0 +1,195 @@
+en:
+  title: Nexar | AI cloud-connected dashcam
+
+  meta-description: 'Nexar is a free, AI cloud-connected dashcam. It instantly detects dangers on the road and provides life-saving warnings.'
+
+  slider-items:
+    - url: '/images/nexar-home-1.png'
+      caption: 'One app to capture your drive'
+      subCaption: 'Capture'
+    - url: '/images/home-2.jpg'
+      caption: 'One app to protect you on the road'
+      subCaption: 'Protect'
+    - url: '/images/nexar-home-4.png'
+      caption: 'One app to connect all vehicles'
+      subCaption: 'Network'
+
+  features:
+    collisionAlert:
+      title: Collision Avoidance
+      text: Avoid crashes with collision alerts
+
+    credibleEvidence:
+      title: Credible Evidence
+      text: Keep trips safe on the cloud
+
+    connectedDriving:
+      title: Connected Driving
+      text: Receive warnings of road hazards
+
+  report:
+    title: Nexar Collision Report
+    content: Prove your side of the story <br />with crash recreation.
+
+  managing:
+    Managing and protecting your fleet has never been so easy,
+    <br />or affordable.
+
+
+  try-it-for-free:
+    Try it for free!
+
+  stats:
+    item1:
+      number: 2.2
+      unit: million
+      text: Hours Of Road Video
+
+    item2:
+      number: 200,000
+      text: Collisions Prevented
+
+    item3:
+      number: 3.5
+      unit: million
+      text: Insurance Savings per year
+
+  signup:
+    title: PROFESSIONAL DRIVER PROGRAM
+    title-mobile: PRO DRIVER SIGNUP
+    text: "Join thousands of Uber, Lyft and transportation drivers and receive <br /> insurance discounts*."
+    text-note: "* applicable only in certain states"
+    yourPhone: Your Phone
+    yourName: Your Name
+    yourEmail: Your Email
+    sendButton: Send
+    readMore: Read more
+
+
+  info-box-1:
+    title: COMPUTER VISION THAT WATCHES OUT FOR YOU
+    text: With Nexar, you get life-saving alerts. Nexar’s technology  studies the road, and alerts you to impending dangers.
+
+  info-box-2:
+    title: VEHICLE-TO-VEHICLE  SAFETY
+    text: Every additional car that joins the Nexar V2V network makes it safer and smarter because vehicles communicate proximity warnings to alert of dangers beyond the drivers' field of view.
+
+  info-box-3:
+    title: DOWNLOAD NOW
+    text: Join the connected driving experience. Being connected means being alerted, informed and protected
+
+    appstore-link: https://itunes.apple.com/WebObjects/MZStore.woa/wa/viewSoftware?id=996931497&mt=8
+    googleplay-link: http://nxr.cm/android
+
+  business:
+    title: Business Solutions
+
+    fleets:
+      title: FLEETS
+
+      text: Nexar's video-assisted fleet management solution helps you keep your fleet safe. Capture all your fleets trips on video, measure and guide your drivers’ behaviour and get notified on incidents.
+
+      more: READ MORE
+
+    cities:
+      title: SMART CITIES
+
+      text: Nexar's car-sourced data for cities provides actionable insights for city planners and managers. Get data reports on city traffic flows, road defects, curbside capacity, safety hotspots, and more.
+
+      more: READ MORE
+
+    insurance:
+      title: INSURANCE
+
+      text: Nexar future proofs insurance companies. Benefit from better underwriting and simpler claim processes through video-based telematics scores and ride-playbacks.
+
+      more: READ MORE
+
+  slog1:
+    text: Nexar is the best device u can use for security on your vehicle hands down... Keep...
+    image: /images/sandra_cohen.png
+    author: ADEL MEDJID
+    sub: Rideshare driver
+
+  slog2:
+    text: Nexar is a very helpeful app. I like it. I have already recommended it to many people...
+    image: /images/mohammad_abbasi.png
+    author: GARY JEAN
+    sub: Rideshare driver
+
+  slog3:
+    text: All in one. Complete package
+    image: /images/alishev_alimov.png
+    author: AFNAN TAHSEEN
+    sub: Rideshare driver
+
+
+  store:
+    title: STORE
+
+    item:
+      name: Wifi Camera
+      starts-from: starting at
+      price: 100
+      description: Extend Nexar by pairing your phone with a fixed windshield wifi camera by Xplore
+      buy-button: Get a quote
+
+
+
+he:
+  title: נקסאר - מצלמת הרכב המחוברת
+
+  trailer-title: "Dashcam footage taken by Nexar’s users"
+  dashcam-footage: Dashcam footage taken by Nexar’s users
+
+  h1: הגנו על עצמכם בכביש
+  h3: הורידו את נקסאר, אפליקציית מצלמת רכב המבוססת על בינה מלאכותית
+
+  appstorebutton1: הורידו את נקסר לאייפו
+  playstorebutton1: הורידו את נקסר לאנדרואיד
+  subheader: הירשמו כאן
+
+  head-text1: נקסאר היא אפליקציית מצלמת רכב חינמית שתחבר אתכם לרשת של נהגים
+  head-text2: הצטרפו למהפכת הנהיגה המחוברת
+
+  appstorebutton: הורידו את נקסר לאייפו
+  playstorebutton: הורידו את נקסר לאנדרואיד
+
+  main:
+    - header: מצלמת הרכב המחוברת
+      text: >
+        נקסר סורקת את מה שמתרחש על הכביש ומתריעה מפני סכנות בזמן אמת. האפליקציה
+                        מקליטה את הנסיעה שלכם ובמקרה של תאונה תאפשר לכם להשתמש בתיעוד הזה
+                        עבור תביעת הביטוח.
+
+
+    - header: התרעות מפני תאונות
+      text: >
+        כאשר אתם נוהגים עם נקסר, אתם מצטרפים לרשת של נהגים שרק רוצים להגיע
+                        הביתה בשלום. במהלך הנסיעה תקבלו התרעות בזמן אמת המבוססות על מידע
+                        שמגיע מהמצלמה ומקהילת המשתמשים. אם למשל משתמש נקסר אחר לפניכם בולם
+                        בפתאומיות, תקבלו על כך אזהרה מיידית שתסייע לכם להימנע מהתנגשות.
+
+
+    - header: גילוי אוטומטי של אירועים מסוכנים
+      text: >
+        התנגשות עם רכב אחר על הכביש היא עניין מבלבל ומלחיץ. אם תיקלעו לתאונת
+                        דרכים נקסאר תספק לכם בחינם דו״ח שחזור התנגשות. המסמך הזה כולל את
+                        כל המידע שהאפליקציה אוספת מהחיישנים של הסמארטפון, כמו הג׳יירוסקופ
+                        ומד התאוצה. כך תוכלו להבין טוב יותר מה בעצם קרה.
+
+    - header: אפשר לצלם גם בתוך הרכב
+      text: >
+        אם אתם נהגי מונית או הסעות תוכלו להגן על עצמכם מפני נוסעים בעייתיים
+                        על ידי הפעלת מצב המצלמה הפנימית ותיעוד ההתרחשות בתוך הרכב.
+
+  camera:
+    header: התושבת המושלמת
+    text: >
+      אנחנו ממליצים להשתמש בתושבת המגנטית של נקסר, שעוצבה במיוחד עבור נהיגה
+                        בטוחה עם האפליקציה.
+
+
+    linktext: "הזמינו אותה במחיר מיוחד: 6.95$ בלבד."
+
+
